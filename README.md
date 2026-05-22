@@ -8,10 +8,6 @@ Full Stack Developer | MERN Stack Developer
 Building responsive full-stack web applications with modern technologies and creating seamless user experiences.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=akhilacodesss&label=Profile%20views"/>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
