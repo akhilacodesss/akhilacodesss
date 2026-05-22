@@ -5,96 +5,148 @@ Full Stack Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
-Passionate about building scalable full-stack web applications with modern technologies and creating responsive user experiences.
+Building responsive full-stack web applications with modern technologies and creating seamless user experiences.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akhilacodesss&label=Profile%20views"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-✨ Full Stack Developer focused on MERN stack
+✨ Full Stack Developer focused on MERN Stack
 
-🚀 Built and deployed full-stack applications with authentication and role-based access control
+🚀 Passionate about building scalable full-stack applications
 
 🏠 Developed **Brickly**, a Real Estate platform with dashboards, wishlist, messaging, and property management
 
-🔐 Experienced with JWT Authentication, REST APIs, CRUD operations, and frontend-backend integration
+🔐 Experienced with JWT Authentication, REST APIs, RBAC, CRUD operations & frontend-backend integration
 
-🌱 Continuously improving development skills through projects and hands-on learning
+🌱 Continuously improving through hands-on projects
 
 ---
 
 ## 🛠 Tech Stack
 
-Frontend:
-React • JavaScript • HTML • CSS • Tailwind CSS
-
-Backend:
-Node.js • Express.js • REST APIs
-
-Database:
-MongoDB • Mongoose • MySQL
-
-Tools:
-Git • GitHub • VS Code • Figma
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,figma"/>
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### Brickly — Real Estate MERN Application
+# 🏠 Brickly — Real Estate MERN Application
 
-Features:
+A full-stack Real Estate platform built using the MERN stack with authentication, role-based access control, property management, and messaging.
 
-✔ User / Agent / Admin dashboards
+### Features
 
-✔ Authentication & Authorization
+✔ User / Agent / Admin dashboards  
+✔ JWT Authentication & Authorization  
+✔ Wishlist functionality  
+✔ Property CRUD operations  
+✔ Messaging system  
+✔ Search & filtering  
+✔ Responsive UI  
+✔ Protected routes  
 
-✔ Wishlist system
+### Demo Credentials
 
-✔ Messaging functionality
+👤 **User**
 
-✔ Property CRUD operations
+Email:
+```txt
+user@gmail.com
+```
 
-✔ Search & filtering
+Password:
+```txt
+test1
+```
 
-✔ Responsive design
+---
 
-Tech:
+🛡️ **Admin**
 
-React • Node.js • Express • MongoDB • JWT • Tailwind
+Email:
+```txt
+admin@gmail.com
+```
 
-🔗 Live:
-Frontend:
+Password:
+```txt
+test
+```
+
+---
+
+🧑‍💼 **Agent**
+
+Email:
+```txt
+agent@gmail.com
+```
+
+Password:
+```txt
+test
+```
+
+---
+
+### Tech Stack
+
+React • Node.js • Express.js • MongoDB • Mongoose • JWT • Tailwind CSS • REST APIs
+
+### 🔗 Live Demo
+
+**Frontend**  
 https://real-estate-website00.netlify.app/
 
-Backend:
+**Backend**  
 https://real-estate-website-be.onrender.com/
 
-📂 GitHub:
+### 📂 GitHub
 
+**Frontend Repo**  
 https://github.com/akhilacodesss/real-estate-website-fe
 
+**Backend Repo**  
 https://github.com/akhilacodesss/real-estate-website-be
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-[stats]
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhilacodesss&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilacodesss&layout=compact"/>
+
+</p>
 
 ---
 
-## 📫 Connect
+## 🌐 Connect With Me
 
-Email:
+📧 **Email**  
 akhila.goundla1112@gmail.com
 
-GitHub:
-github.com/akhilacodesss
+💻 **GitHub**  
+https://github.com/akhilacodesss
 
-LinkedIn:
-(add link)
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/akhila-goud-278b8537b/
 
-Portfolio:
-(add link)
+🌍 **Portfolio**  
+https://akhila-portfoli0.netlify.app/
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
